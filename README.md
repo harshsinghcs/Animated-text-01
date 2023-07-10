@@ -6,10 +6,12 @@
 
 ![animated Hii](https://github.com/harshsinghcs/MY-PROJECT/assets/115187902/dedfcdbc-6299-404a-8499-3481fa300b39)
 
-<h2>Thankyou for Visiting my project don't forget to follow me ON github</h2>
+You can adjust the text or font size as u need just a simple change in CSS in hieight attribute
+
+<h2> Thank you for Visiting my project don't forget to follow me ON github</h2>
 
 - follow me 👉👉 [https://github.com/harshsinghcs](https://github.com/harshsinghcs)
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshsinghcs/MY-PROJECT](https://github.com/harshsinghcs/MY-PROJECT)
 
-- 📫 How to reach me Just you have to contribution in my repo or mail me on **harshsinghcs01@gmail.com**
+- 📫 How to reach me Just you have to contribute to my repo or mail me at **harshsinghcs01@gmail.com**
