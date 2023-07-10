@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 3em;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* Image use in url "exmaple harsh\phot.png" */
+    background: url(colourfull.png);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: text 3s linear infinite;
+}
+@keyframes text{
+    from{
+        background-position: 0% 50%;
+    }
+    to {
+        background-position: 100% 100;
+    }
+}
