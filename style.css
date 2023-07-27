@@ -32,7 +32,6 @@ h1 {
     display: inline-block;
     font-family: 'Nosifer', cursive;
     background: url(oranges.jpg);
-    background-image: url(colourfull.png);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-stroke: 0.1px green;
