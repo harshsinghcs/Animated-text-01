@@ -5,8 +5,8 @@
 - ⚡ I made this project for Fun 
 
 
+![Screenshot (64)](https://github.com/harshsinghcs/Animated-text-01/assets/115187902/3dfdf6bd-534f-4401-82c4-6f6eb6ad093d)
 
-![animated Hii](https://github.com/harshsinghcs/MY-PROJECT/assets/115187902/dedfcdbc-6299-404a-8499-3481fa300b39)
 
 You can adjust the text or font size as u need just a simple change in CSS in the height attribute
 
