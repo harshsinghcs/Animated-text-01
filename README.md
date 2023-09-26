@@ -5,7 +5,8 @@
 - ⚡ I made this project for Fun 
 
 
-![Screenshot (64)](https://github.com/harshsinghcs/Animated-text-01/assets/115187902/3dfdf6bd-534f-4401-82c4-6f6eb6ad093d)
+![image](https://github.com/lakshsingh02/Animated-text-01/assets/145931622/07ae3e17-a21d-45e9-aadf-a9454d90da6c)
+
 
 
 You can adjust the text or font size as u need just a simple change in CSS in the height attribute
